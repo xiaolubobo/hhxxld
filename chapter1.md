@@ -1,3 +1,3 @@
-# First Chapter
+# chapter1论个体崛起的正确姿势/理解力的发力方法以及“临界知识”怎么用
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+![](https://dn-shimo-image.qbox.me/8JLPME2laz802voE/1.jpg!thumbnail)
