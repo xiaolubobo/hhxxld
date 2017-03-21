@@ -14,7 +14,7 @@
     * [3.1课程来源](chapter3/3.1.md)
     * [3.2分享大纲](chapter3/3.2.md)
     * [3.3视频](chapter3/3.3.md)
-    * [3.4逐字稿](chapter1/1.4.md)
+    * [3.4逐字稿](chapter1/3.4.md)
 * [chapter4提升学习能力的五个底层方法](chapter4.md)
     * [4.1课程来源](chapter4/4.1.md)
     * [4.2分享大纲](chapter4/4.2.md)
